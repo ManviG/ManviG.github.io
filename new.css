@@ -1,0 +1,225 @@
+@charset "utf-8";
+/* CSS Document */
+
+body[Attribute Style]{
+	background-image:url(background.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	z-index:-100px;
+	margin:0px;
+	width:1200px;
+	
+   }
+   
+  #nav_id{
+   list-style-type:none;
+   background-color:black;
+  
+   }
+   #nav_id li{
+   position:relative;
+   margin-top:0px;
+   padding:5px;
+   display:inline;
+   text-align:center;
+   float:right;
+   }
+   
+   #dp{
+   position:relative;
+   top:10px;
+   left:10px;
+   border:black;
+   padding:0px;
+   float:left;
+   margin: 0px 30px 30px 20px;
+   height:280px;
+   width:230px;
+   
+   }
+   
+   #home_text{
+   position:relative;
+   text-align:justify;
+   display:justify;
+   font: 18px times new roman;
+   top:3px;
+   margin-left: 20px;
+   margin-right:20px;
+   text-indent: 2em;
+   
+   }
+   
+   #comments{
+   position:relative;
+   text-align:center;
+   color: red;
+   font: 15px verdana;
+   }
+   
+   footer{
+   margin-top: 20px;
+   margin-left: 10px;
+   margin-right:10px;
+   margin-bottom:15px;
+   background-color:black;
+   padding:1px;
+   }
+   
+   /*education*/
+   
+   #edu_text{
+   font: 18px times new roman;
+   margin: 10px 10px;
+   padding:10px;
+   float:center;
+   text-align:center;
+   }
+   
+   .video{
+   margin-left: auto;
+    margin-right: auto;
+    display: block;
+	margin-top: 60px;
+   }
+   
+   /*my future*/
+   
+   #future{
+   position:relative;
+   top:10px;
+   left:10px;
+   border:black;
+   padding:0px;
+   float:left;
+   margin: 0px 30px 30px 20px;
+   height:280px;
+   width:230px;
+   }
+   
+   #future_text{
+   position:relative;
+   text-align:justify;
+   display:justify;
+   font: 18px times new roman;
+   top:3px;
+   margin-left: 20px;
+   margin-right:20px;
+   text-indent: 2em;
+   }
+   
+   
+   /*my skills */
+   #skills_text1{
+   font: 20px times new roman;
+   margin: 10px 10px;
+   padding:10px;
+   float:center;
+   text-align:center;
+   }
+   
+   #word{
+   float:left;
+   position:relative;
+   top:10px;
+   left:10px;
+   margin:0px 30px 30px 20px;
+   }
+   
+   #skills_text2{
+   position:relative;
+   text-align:justify;
+   display:justify;
+   font: 20px times new roman;
+   top:3px;
+   margin-left: 20px;
+   margin-right:20px;
+   text-indent: 2em;
+   }
+   
+   
+   table.skills_table td {
+    background-color: white;
+    margin: 20px 2px 20px 20px;
+    padding: 20px 20px 20px 20px;
+	}
+	
+   #excel{
+   float:left;
+   position:relative;
+   top:10px;
+   left:10px;
+   margin:0px 30px 30px 20px;
+   }
+   
+}
+ #excel_text{
+   position:relative;
+   text-align:justify;
+  display: justify;
+   font: 20px times new roman;
+   top:3px;
+   margin-left: 20px;
+   margin-right:20px;
+   text-indent: 2em;
+   }
+   
+   
+   #hat{
+   position:relative;
+   top:10px;
+   left:10px;
+   border:black;
+   padding:0px;
+   float:left;
+   margin: 0px 30px 30px 20px;
+   }
+   
+   
+   #hat_text{
+   position:relative;
+   text-align:justify;
+   display:justify;
+   font: 18px times new roman;
+   top:3px;
+   margin-left: 20px;
+   margin-right:20px;
+   text-indent: 2em; 
+   }
+   
+   #sister{
+   position:relative;
+   top:10px;
+   border:black;
+   padding:0px;
+   float:right;
+   margin: 0px 30px 30px 20px;
+   
+   }
+   
+   
+   #sister_text{
+    position:relative;
+   text-align:justify;
+   display:justify;
+   font: 18px times new roman;
+   top:3px;
+   margin-left: 20px;
+   margin-right:20px;
+   text-indent: 2em; 
+   }
+   
+   label + input{
+    width: 30%;
+    /* large margin-right to force the next element to the new-line
+       and margin-left to create a gutter between the label and input */
+    margin: 0 30% 0 4%;
+   
+   }
+   
+   
+   
+   
+   
+   
+   
